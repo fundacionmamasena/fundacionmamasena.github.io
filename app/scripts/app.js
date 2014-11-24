@@ -12,4 +12,9 @@ angular.module('fmsApp', [
                 templateUrl: 'views/main.html',
                 controller: 'MainCtrl'
             })
+            .state('contactos', {
+                url: '/contactos',
+                templateUrl: 'views/contactus.html'
+                //                controller: 'con'
+            })
     })

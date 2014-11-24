@@ -4,4 +4,7 @@ dist
 .sass-cache
 .grunt
 app/bower_components
+.brackets.json
+app/assets
+
 
