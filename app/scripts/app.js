@@ -22,10 +22,10 @@ angular.module('fmsApp', [
                 templateUrl: 'views/aboutus.html'
                 //                controller: 'con'
             })
-            .state('objetivos', {
-                url: '/objetivos',
-                templateUrl: 'views/objectives.html'
-                //                controller: 'con'
+            .state('mision-vision', {
+                url: '/mision-vision',
+                templateUrl: 'views/mission-vision.html',
+                controller: 'MvCtrl'
             })
             .state('programas', {
                 url: '/programas',
