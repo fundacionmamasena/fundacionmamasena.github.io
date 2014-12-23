@@ -1,0 +1,5 @@
+{
+    "jscodehints.detectedExclusions": [
+        "C:/dev/testrepo/dist/bower_components/es5-shim/es5-shim.min.js"
+    ]
+}
