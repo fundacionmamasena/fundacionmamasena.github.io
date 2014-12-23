@@ -16,7 +16,17 @@ module.exports = function (grunt) {
             options: {
                 base: 'dist'
             },
+			'gh-pages': {
+            options: {
+            },
             src: ['**']
+			},
+			'fms': {
+            options: {
+			repo: 'https://github.com/fundacionmamasena/fundacionmamasena.github.io.git'
+            },
+            src: ['**']
+			}
         },
         yeoman: {
             // configurable paths
