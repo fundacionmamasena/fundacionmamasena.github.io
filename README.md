@@ -1,5 +1,7 @@
 # fundasena.org
 
+Moved to https://github.com/wovalle/fundasena.org.
+
 ## Installation
 
 Assuming that you have [a full ruby environment](https://jekyllrb.com/docs/installation/):
